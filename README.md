@@ -20,4 +20,4 @@ See [CSource/README.md](./CSource/README.md).
 
 ## License
 
-## Contributing
+See [CSource/LICENSE](./CSource/LICENSE).
